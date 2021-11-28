@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1569209227 source:f:\xingr\coding\xing_ryan nifty mountains assignment\main.cpp
+	<fstream>
+	<iostream>
+	<apmatrix.h>
+	<apvector.h>
+	<string.h>
+	<cstdlib>
+	"header.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1569195874 source:f:\xingr\coding\xing_ryan nifty mountains assignment\functions.cpp
+	<fstream>
+	<iostream>
+	<apmatrix.h>
+	<apvector.h>
+	<string.h>
+	<limits>
+	<cstdlib>
+	<ctime>
+	"header.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1569206586 f:\xingr\coding\xing_ryan nifty mountains assignment\header.h
+	<queue>
+	<vector>
+	<apmatrix.h>
+	<apvector.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+
+1569207214 source:f:\xingr\coding\xing_ryan nifty mountains assignment\allegrofunctions.cpp
+	<iostream>
+	"header.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1569187440 source:f:\xingr\coding\xing_ryan nifty mountains assignment\betterapproach_functions.cpp
+	<iostream>
+	<climits>
+	<queue>
+	<functional>
+	<vector>
+	<utility>
+	<fstream>
+	<apmatrix.h>
+	<apvector.h>
+	<string.h>
+	<cstdlib>
+	"header.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1569187327 source:f:\xingr\coding\xing_ryan nifty mountains assignment\dijstra's shortest path.cpp
+	<iostream>
+	<climits>
+	<queue>
+	<functional>
+	<vector>
+	<utility>
+	<fstream>
+	<apmatrix.h>
+	<apvector.h>
+	<string.h>
+	<cstdlib>
+	"header.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1569192920 source:f:\xingr\coding\xing_ryan nifty mountains assignment\dijkstra's functions.cpp
+	<iostream>
+	<climits>
+	<queue>
+	<functional>
+	<vector>
+	<utility>
+	<fstream>
+	<apmatrix.h>
+	<apvector.h>
+	<string.h>
+	<cstdlib>
+	"header.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1569208416 source:f:\xingr\coding\xing_ryan nifty mountains assignment\optimizedapproach.cpp
+	<iostream>
+	<climits>
+	<queue>
+	<functional>
+	<vector>
+	<utility>
+	<fstream>
+	<apmatrix.h>
+	<apvector.h>
+	<string.h>
+	<cstdlib>
+	"header.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1569207504 source:f:\xingr\coding\xing_ryan nifty mountains assignment\basefunctions.cpp
+	<fstream>
+	<iostream>
+	<apmatrix.h>
+	<apvector.h>
+	<string.h>
+	<limits>
+	<cstdlib>
+	<ctime>
+	"header.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1569205202 source:f:\xingr\coding\xing_ryan nifty mountains assignment\dijkstrasapproach.cpp
+	<iostream>
+	<climits>
+	<queue>
+	<functional>
+	<vector>
+	<utility>
+	<fstream>
+	<apmatrix.h>
+	<apvector.h>
+	<string.h>
+	<cstdlib>
+	"header.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
